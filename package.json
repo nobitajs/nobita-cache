@@ -1,6 +1,6 @@
 {
   "name": "nobita-cache",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "koa脚手架cache",
   "main": "lib/nobita-cache.js",
   "dependencies": {},
